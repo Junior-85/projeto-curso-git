@@ -50,6 +50,39 @@ Lista de tarefas:
 - [ ] Finalizar reunião com cliente
 - [ ] Receber pagamento
 
+## Inserindo imagem
+
+![Teste - Sydney](https://user-images.githubusercontent.com/52713968/92640630-f6172080-f2b3-11ea-928e-6be086fa5c6d.JPG)
+
+Incluir link:
+[Acesse meu GitHub](https://github.com/junior-85.io)
+
+## Inserindo Tabela
+
+Num | Nome | Nota
+--- | --- | ---
+1 | Junior | 5.5
+2 |  Renan | 9 
+
+## Para destaque de comando
+
+Não entendo para que serve o comando `document.getElementByld()`da liguagem JavaScript 
+
+## Para trechos de programas
+
+Olha meu programa Python 
+
+```
+num = int(input('Digite um valor: '))
+if num%2 ==0;
+   print(f'O valor {num} é Par')
+else:
+   print(f'O valor {num} é IMPAR')
+```
+
+## Emojis
+
+Olá, ai vai um emoji 🖖 
 
 
 
